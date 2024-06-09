@@ -13,7 +13,7 @@ Microsoft.Maui.Controls.Compatibility;
 
 -->Linguagem BACK-END: C#;
 
--->Linguagem FRONT-END: XML;
+-->Linguagem FRONT-END: XAML;
 
 -->Bancos De Dados Utilizados:PostgreSQL e SQLite;
 
